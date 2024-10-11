@@ -1,0 +1,28 @@
+1 - git push
+steps to push the codes through vscode terminal
+
+git status - to check if git is already initialized
+
+1. git init
+2. git add .
+3. git commit -m "initial commit"
+
+4. create one empty repository in github
+5. git remote add origin [ copy the repository web address ]
+6. git push -u origin main
+
+
+2 - git pull
+steps to taking the code from github
+
+1. go to file - folder
+2. open the terminal
+3. [ git clone paste the web address ]
+
+3 - git commit
+steps to update the codes through vscode terminal
+
+1. git init
+2. git add .
+3. git commit -m " make changes "
+4. git push -u origin main
